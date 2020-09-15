@@ -1,0 +1,10 @@
+a=8
+b=4
+s=a+b
+d=a-b
+p=a*b
+r=a/b
+print(s)
+print(d)
+print(p)
+print(r)
